@@ -1,5 +1,10 @@
 # JSpider
 
+## 联系&交流
+
+- 微信：scrapingdance
+- 邮箱：scrapy@qq.com
+
 ## 关于
 
 JSpider 的含义是 JavaScript 与 Spider，JSpider每周会更新至少一个网站的JS解密方式。并且把解密的JS文件分享出来，该JS文件可以直接使用Python模块pyexecjs调用执行。分享的文件包括JS源码和Python程序。
@@ -77,10 +82,6 @@ JSpider 的含义是 JavaScript 与 Spider，JSpider每周会更新至少一个�
 - DSA
 
 做非对称加密密钥对一般有RSA、DSA，都可以用作签名验证，一般如果只做签名操作，生成DSA即可，速度会快很多,效率也很高。DSA尽管很少用，但是也一样具有很高可靠性，通过公私钥签名验证内容。保证数据在传输中不被修改。
-
-## 联系
-
-- scrapy@qq.com
 
 ## 注意
 
