@@ -1,5 +1,7 @@
 # JSpider
 
+# 此项目暂停维护更新！！
+
 ## 联系&交流
 
 - 微信：scrapingdance
